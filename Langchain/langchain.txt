@@ -1,0 +1,2 @@
+langchain的基本介绍
+参考网站：https://www.alang.ai/langchain/101/lc01
